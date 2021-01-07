@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Transfermarkt TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>99b7fb29-223f-4282-9c3e-947189f49eab</testSuiteGuid>
+   <testCaseLink>
+      <guid>a433d73e-18e7-4dac-8f5b-8d32fb6f9f14</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Transfermarkt</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e76c0340-e11b-4b39-895d-c1314c688aa4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TransfermarktDATA/Data1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ksywka</value>
+         <variableId>3376fc59-4ba7-4d4a-a82d-a6a0192d6ae4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Imie</value>
+         <variableId>6ca83995-f376-406f-9884-ce7b3497a1d2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nazwisko</value>
+         <variableId>6f786760-5567-405c-bda4-0cf925beb2d0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>6de37897-bf0c-4462-a6da-d430afdd645b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Remail</value>
+         <variableId>fb6af5a3-034d-4da8-bf42-f19722d5c2bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>haslo</value>
+         <variableId>404091cf-559d-4d65-8a43-d4afdbe782a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e76c0340-e11b-4b39-895d-c1314c688aa4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Rhaslo</value>
+         <variableId>d85161e4-27e1-4b07-b1b4-ae4abf2f51b8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
